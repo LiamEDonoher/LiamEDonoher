@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on converting a game in blueprint to C++ in my project **TankinGear**
 
-- 🌱 I’m currently learning C++ programming in UE5 and VFX creation. **University of Staffordshire**
+- 🌱 I’m currently learning C++ programming in UE5 and VFX creation at the **University of Staffordshire**
 
 - 👯 I’m looking to collaborate on game jams! [My Previous Projects](https://liam-donoher.itch.io/)
 
 - 👨‍💻 All of my projects are available at [https://liamdonoher.wixsite.com/portfolio](https://liamdonoher.wixsite.com/portfolio)
 
-- ⚡ Fun fact **I really want to see more games about dinosaurs and pirates.**
+- ⚡ Fun fact **I really want to see more games about dinosaurs and pirates**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
