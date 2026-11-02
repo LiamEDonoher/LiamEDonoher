@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on game jams! [My Previous Projects](https://liam-donoher.itch.io/)
 
-- 👨‍💻 All of my projects are available at [https://liamdonoher.wixsite.com/portfolio](https://liamdonoher.wixsite.com/portfolio)
+- 👨‍💻 All of my best projects are available at [https://liamdonoher.wixsite.com/portfolio](https://liamdonoher.wixsite.com/portfolio)
 
 - ⚡ Fun fact **I really want to see more games about dinosaurs and pirates**
 
