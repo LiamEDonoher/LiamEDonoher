@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
-<h3 align="center">A passionate games developer from England</h3>
+<h3 align="center">Games Programmer | C++ & C# | Unreal Engine 5 & Unity | University of Staffordshire</h3>
 
 - 🔭 I’m currently working on converting a game in blueprint to C++ in my project **TankinGear**
 
